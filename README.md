@@ -13,6 +13,6 @@
 
 * The information entered into the add train form is pushed into the linked Firebase.
 
-* The information in Firebase is then pulled to the page when the page is loaded. This information is appended into the a new table row in the Current Train Schedule box.
+* The information in Firebase is then pulled to the page when the page is loaded. This information is appended into a new table row in the Current Train Schedule box.
 
 * The page then uses Moment.js to calculate the next arrival and minutes away before appending it to the table.
